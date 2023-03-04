@@ -1,5 +1,6 @@
 # nosql-challenge
 Purpose: to evalutes various establishments across the United Kingdom for The UK Food Standards Agency <br>
+
 Part 1: Database and Jupyter Notebook Set Up<br>
 1. Import establishments.json file<br>
 2. Import libraries <br>
