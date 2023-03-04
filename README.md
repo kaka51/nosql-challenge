@@ -16,7 +16,6 @@ Part 2: Update the Database<br>
 5. Convert latitude and longitude to decimal numbers<br>
 
 Part 3: Exploratory Analysis <br>
-answer the following questions:<br>
 1. Which establishments have a hygiene score equal to 20?<br>
 2. Which establishments in London have a RatingValue greater than or equal to 4? <br>
 3. What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?<br>
