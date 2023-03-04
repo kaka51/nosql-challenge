@@ -6,12 +6,14 @@ Part 1: Database and Jupyter Notebook Set Up<br>
 3. Create an instance of the Mongo Client<br>
 4. Confirm if the data loaded properly<br>
 5. Assign the collection to a variable <br>
+
 Part 2: Update the Database<br>
 1. Insert a new restaurant data to Database <br>
 2. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields <br>
 3. Update the new restaurant with the BusinessTypeID you found<br>
 4. Delete data that related to Dover <br>
 5. Convert latitude and longitude to decimal numbers<br>
+
 Part 3: Exploratory Analysis <br>
 answer the following questions:<br>
 1. Which establishments have a hygiene score equal to 20?<br>
